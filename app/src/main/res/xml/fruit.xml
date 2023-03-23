@@ -1,0 +1,16 @@
+
+
+<fruits>
+    <fruit>
+        <name>Apple</name>
+        <color>Red</color>
+    </fruit>
+    <fruit>
+        <name>Banana</name>
+        <color>Yellow</color>
+    </fruit>
+    <fruit>
+        <name>Grape</name>
+        <color>Purple</color>
+    </fruit>
+</fruits>
